@@ -37,5 +37,9 @@ An ecommerce store built using the MERN (MongoDB, Express, React, Node.js) stack
 
 ## Third-Party APIs
 - Integrate third-party APIs for payment gateways, shipping services, and other functionalities as needed.
-
-
+<p>Website Demo:</p>
+<p><b>Admin Dashboard</b></p>
+<img src="https://github.com/CSuryaVenkat/E-commerceWebsite/blob/main/admin_dashboard.png" alt="Model Loss Plot" width="700" height="300">
+<img src="https://github.com/CSuryaVenkat/E-commerceWebsite/blob/main/available_items.png" alt="Model Loss Plot" width="400" height="300">
+<p><b>HomePage</b></p>
+<img src="https://github.com/CSuryaVenkat/E-commerceWebsite/blob/main/homepage.png" alt="Model Loss Plot" width="400" height="300">
